@@ -1,3 +1,4 @@
+//these are behavioural patterns
 public class Editor {
     private String content;
 
